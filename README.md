@@ -29,11 +29,11 @@
 <code><img title="VS CODE" alt="VS CODE" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 <code><img title="WINDOWS" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
  
-<h2>Joke of the day </h2>
+<h2>Piadas Enfadonhas </h2>
 <details>
-<summary>See joke</summary>
+<summary>Vamos Nessa !</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+        <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
     </a>
  
 </div>
