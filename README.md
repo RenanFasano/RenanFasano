@@ -6,26 +6,16 @@
 </div>
   
 <div> 
-  <tr>
-    <td>
-      <img align="right" alt="Coding" width="50" src="https://media1.giphy.com/media/m8wQSPsbDIbeU8hQLL/giphy.gif?cid=790b761179c517e7f4743ec7951f9615e21256c60b704930&rid=giphy.gif&ct=s">
-      </td>
-  <td> <a href="https://instagram.com/naner_fasano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    </td>
-  <td>
-    <a href = "mailto:renan.fasano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="right" alt="Coding" width="50" src="https://media1.giphy.com/media/m8wQSPsbDIbeU8hQLL/giphy.gif?cid=790b761179c517e7f4743ec7951f9615e21256c60b704930&rid=giphy.gif&ct=s">
+  <a href="https://instagram.com/naner_fasano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:renan.fasano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-fasano-59b102169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </td>
-    <td>
-    <img align="right" alt="Coding" width="50" src="https://media0.giphy.com/media/5wOJPWvgmF3ZFu3mDv/giphy.gif?cid=790b7611aa987d53cfda8a1e1c1fdd83cf0108869b218888&rid=giphy.gif&ct=s">
-      </td>
-    
-  </tr>
+  <img align="right" alt="Coding" width="50" src="https://media0.giphy.com/media/5wOJPWvgmF3ZFu3mDv/giphy.gif?cid=790b7611aa987d53cfda8a1e1c1fdd83cf0108869b218888&rid=giphy.gif&ct=s">
 </div>
 
  ![Snake animation](https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg)
   
-  <h2> Linguagens & Frameworks que estou estudando </h2>
+<h2> Linguagens & Frameworks que estou estudando </h2>
 <code><img title="C#" alt="C#" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
 <code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 <code><img title="JAVA" alt="JAVA" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code>
