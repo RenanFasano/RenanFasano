@@ -14,6 +14,16 @@
 </div>
 
  ![Snake animation](https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg)
+ 
+ ##
+ <img src="https://komarev.com/ghpvc/?username=RenanFasano&color=blue" alt="Profile views" /><br>
+ 
+
+
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/RenanFasano/count.svg">
+</div>
   
 <h2> Linguagens & Frameworks que estou estudando </h2>
 <code><img title="C#" alt="C#" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
