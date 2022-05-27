@@ -22,17 +22,19 @@
   ![Snake animation](https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg)
  
 <h2> Linguagens & Frameworks que estou estudando </h2>
-<code><img title="C#" alt="C#" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-<code><img title="PHP" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
-<code><img title="JAVA" alt="JAVA" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code>
-<code><img title="SQL" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-
+<a href="https://github.com/RenanFasano">
+<img title="C#" alt="C#" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img title="PHP" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img title="JAVA" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img title="SQL" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</a>
 <h2> Ferramentas que uso </h2>
-<code> <img title="SQL SERVER" alt="SQL" width="40px" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png" /></code>
-<code><img title="NAVICAT" alt="NAVICAT" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/navicat_93851.png" /></code>
-<code><img title="VISUAL STUDIO" alt="VISUAL STUDIO" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
-<code><img title="VS CODE" alt="VS CODE" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="WINDOWS" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<a href="https://github.com/RenanFasano">
+<img title="SQL SERVER" alt="SQL" height="30" width="40" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png" />
+<img title="NAVICAT" alt="NAVICAT" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/navicat_93851.png" />
+<img title="VISUAL STUDIO" alt="VISUAL STUDIO" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img title="VS CODE" alt="VS CODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img title="WINDOWS" alt="microsoft windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  
 <h2>Piadas Enfadonhas </h2>
 <details>
