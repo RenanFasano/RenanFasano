@@ -1,13 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C86183&width=1200&height=80&lines=Seja+Bem+Vindo+!;Meu+nome+%C3%A9+Renan+Fasano;Sou+T%C3%A9cnico+em+Inform%C3%A1tica+;e+estudo+Analise+e+Desenvolvimento+de+Sistemas++!)](https://git.io/typing-svg)
 
 <div>
-  <a href="https://github.com/RenanFasano">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenanFasano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/RenanFasano">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFasano&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-      
 </div>
 
    <img src="https://komarev.com/ghpvc/?username=RenanFasano&color=ff69b4" alt="Profile views" /><br>
