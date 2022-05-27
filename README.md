@@ -16,7 +16,7 @@
  ![Snake animation](https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg)
  
  ##
- <img src="https://komarev.com/ghpvc/?username=RenanFasano&color=blue" alt="Profile views" /><br>
+ <img src="https://komarev.com/ghpvc/?username=RenanFasano&color=ff69b4" alt="Profile views" /><br>
  
 
 
@@ -46,3 +46,9 @@
     </a>
  
 </div>
+</details>
+
+## 🌟 Stargazers over time
+
+[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/MDEwOlJlcG9zaXRvcnkyNzg5Mjk4Njc=.svg)](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-profile-views-counter&utm_content=chart-repository-star-cumulative)
+
