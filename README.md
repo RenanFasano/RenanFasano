@@ -25,7 +25,7 @@
   ![Snake animation](https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
-  <h2> Linguagens & Frameworks que uso e estudo </h2>
+  <h2> Linguagens & Ferramentas que uso e estudo </h2>
   <a href="https://github.com/RenanFasano">
     <img align="center" height="40" width="40" title="C#"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" height="40" width="40" title="PHP"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
