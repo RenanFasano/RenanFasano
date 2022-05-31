@@ -7,8 +7,6 @@
   </a>
 </div>
 
-  <img src="https://komarev.com/ghpvc/?username=RenanFasano&color=ff69b4" alt="Profile views">
-   
 <div> 
   <img align="left" alt="Coding" width="40" src="https://media1.giphy.com/media/m8wQSPsbDIbeU8hQLL/giphy.gif?cid=790b761179c517e7f4743ec7951f9615e21256c60b704930&rid=giphy.gif&ct=s">
   
@@ -40,7 +38,7 @@
     <img align="center" height="40" width="40" title="VSCODE"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" height="40" width="40" title="WINDOWS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
     <img align="center" height="40" width="40" title="SQL SVR"  src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png">
-  </div>
+</div>
  
 <div>
   <h2>Piadas Enfadonhas </h2>
