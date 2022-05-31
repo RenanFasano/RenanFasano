@@ -35,7 +35,7 @@
     <img align="center" height="40" width="40" title="VSUDIO"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" height="40" width="40" title="VSCODE"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" height="40" width="40" title="WINDOWS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-    <img align="center" height="40" width="40" title="SQL SVR"  src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png"></a>
+    <img align="center" height="40" width="40" title="SQL SVR"  src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png">
 </div>
  
 <div>
