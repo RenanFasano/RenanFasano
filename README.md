@@ -29,7 +29,6 @@
   <a href="https://github.com/RenanFasano">
     <img align="center" height="40" width="40" title="C#"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" height="40" width="40" title="PHP"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" height="40" width="40" title="JAVA"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
     <img align="center" height="40" width="40" title="SQL"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" height="40" width="40" title="NAVICAT"  src="https://cdn.icon-icons.com/icons2/1381/PNG/512/navicat_93851.png">
     <img align="center" height="40" width="40" title="VSUDIO"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
