@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C86183&width=1200&height=80&lines=Seja+Bem+Vindo+!;Meu+nome+%C3%A9+Renan+Fasano;Sou+T%C3%A9cnico+em+Inform%C3%A1tica+;e+estudo+Analise+e+Desenvolvimento+de+Sistemas++!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C86183&width=1200&height=80&lines=Seja+Bem+Vindo+!;Meu+nome+%C3%A9+Renan+Fasano+!;Sou+analista+em+suporte+de+T.I%2C+t%C3%A9cnico+em+inform%C3%A1tica;e+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+!)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/RenanFasano">
