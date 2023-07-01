@@ -4,7 +4,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/renan-fasano/"><img height="20" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/naner_fasano/"><img height="20" src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/renan_fasano/"><img height="20" src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
   <a href="mailto:renan.fasano@gmail.com"><img height="20" src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white"></a>
   <br><br>
     Hi, I'm Renan Fasano, Junior Technical Support Analyst and Computer Technician in Brazil !
