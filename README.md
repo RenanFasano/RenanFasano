@@ -1,42 +1,46 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C86183&width=1200&height=80&lines=Seja+Bem+Vindo+!;Meu+nome+%C3%A9+Renan+Fasano+!;Sou+analista+em+suporte+de+T.I%2C+t%C3%A9cnico+em+inform%C3%A1tica;e+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=C86183&center=true&vCenter=true&width=1200&height=80&lines=Welcome%2C+I+am+Renan+Fasano+!;May+the+Force+be+with+you+!)](https://git.io/typing-svg)
 
-<div>
+##
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/renan-fasano/"><img height="20" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/naner_fasano/"><img height="20" src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
+  <a href="mailto:renan.fasano@gmail.com"><img height="20" src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white"></a>
+  <br><br>
+    Hi, I'm Renan Fasano, Junior Technical Support Analyst and Computer Technician in Brazil !
+  <br>
+    I'm currently studying Systems Analysis and Development at Uninove University.
+</p>
+
+<div align="center"> 
   <a href="https://github.com/RenanFasano">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenanFasano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFasano&layout=compact&langs_count=7&theme=dracula">
+    <img align="center" height="40" width="40" title="HTML"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" height="40" width="40" title="CSS"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="40" title="PYTHON"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" height="40" width="40" title="C#"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" height="40" width="40" title=".NET"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
+    <img align="center" height="40" width="40" title="PHP"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+    <img align="center" height="40" width="40" title="SQL"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" height="40" width="40" title="SQL SVR"        src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png">
+    <img align="center" height="40" width="40" title="VISUAL CODE"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" height="40" width="40" title="VISUAL STUDIO"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" height="40" width="40" title="PHOTOSHOP"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+    <img align="center" height="40" width="40" title="WINDOWS"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   </a>
 </div>
 
 ##
 
-<div> 
-  <img align="left" alt="Coding" width="40" src="https://media1.giphy.com/media/m8wQSPsbDIbeU8hQLL/giphy.gif?cid=790b761179c517e7f4743ec7951f9615e21256c60b704930&rid=giphy.gif&ct=s">
-  
-  <a href="mailto:renan.fasano@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/naner_fasano">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-fasano-59b102169">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <img align="center" alt="Coding" width="40" src="https://media0.giphy.com/media/5wOJPWvgmF3ZFu3mDv/giphy.gif?cid=790b7611aa987d53cfda8a1e1c1fdd83cf0108869b218888&rid=giphy.gif&ct=s">
-</div>
+<p align="center">
+  <img src="https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
-  ![Snake animation](https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg)
-
-<div> 
-  <h2> Linguagens & Ferramentas que uso e estudo </h2>
-  <a href="https://github.com/RenanFasano">
-    <img align="center" height="40" width="40" title="HTML"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" height="40" width="40" title="CSS"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="40" title="C#"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" height="40" width="40" title="PHP"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" height="40" width="40" title="VSCODE"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" height="40" width="40" title="SQL"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" height="40" width="40" title="SQL SVR"  src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png">
-</div>
- 
 <div>
-  <h2>Piadas Enfadonhas </h2>
-  <a href="https://github.com/ABSphreak/readme-jokes"><img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card"></a>
+  <a href="https://github.com/RenanFasano">
+  <a href="https://github.com/ABSphreak/readme-jokes">
+    <img width="44%"  src="https://github-readme-stats.vercel.app/api?username=RenanFasano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img width="55%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFasano&theme=dracula&layout=compact&langs_count=7&">
+    <h2>Piadas Enfadonhas </h2>
+    <img width="100%" src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card">
+  </a>
 </div>
