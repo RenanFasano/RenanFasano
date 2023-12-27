@@ -20,8 +20,6 @@
     <img align="center" height="40" width="40" title="C#"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" height="40" width="40" title="PHP"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <img align="center" height="40" width="40" title="SQL"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" height="40" width="40" title="VISUAL CODE"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" height="40" width="40" title="VISUAL STUDIO"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" height="40" width="40" title="PHOTOSHOP"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   </a>
 </div>
