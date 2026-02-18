@@ -26,9 +26,4 @@
 
 ##
 
-
-
-##
-
-[Run command](https://RenanFasano.github.io/terminal/)
-
+<p align="center"> <img src="https://github.com/RenanFasano/RenanFasano/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"> </p>
